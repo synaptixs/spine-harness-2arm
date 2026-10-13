@@ -1,0 +1,12 @@
+.env
+results*/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+
+# Local and generated material omitted from the public source seed
+.DS_Store
+.env.study
+dist/
+*.log
